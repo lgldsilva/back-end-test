@@ -56,4 +56,4 @@ Serão considerados como um diferencial em sua avaliação, a implementação de
 > – Martin Fowler
 >
 ### Ao final
-Enviar o código em formato .zip para o e-mail recrutamento@escriba.com.b
+Enviar o código em formato .zip para o e-mail recrutamento@escriba.com.br
